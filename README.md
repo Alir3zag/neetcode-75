@@ -1,6 +1,6 @@
 # NeetCode 75 🧠
 
-Solving 5 problems a day. Every solution is clean, commented, and pushed daily.
+Solving NeetCode 75 — a collection of essential Data Structures and Algorithms (DSA) interview problems — in a 15-day challenge (5 problems per day).
 
 ## Progress: 2 / 75
 
