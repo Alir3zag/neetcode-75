@@ -2,7 +2,7 @@
 
 Solving NeetCode 75 — a collection of essential Data Structures and Algorithms (DSA) interview problems — in a 15-day challenge (5 problems per day).
 
-## Progress: 2 / 75
+## Progress: 3 / 75
 
 ---
 
@@ -12,7 +12,7 @@ Solving NeetCode 75 — a collection of essential Data Structures and Algorithms
 |---|---------|------------|--------|
 | 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | ✅ |
 | 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | ✅ |
-| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ⬜ |
+| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ |
 | 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | ⬜ |
 | 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | ⬜ |
 | 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | ⬜ |
