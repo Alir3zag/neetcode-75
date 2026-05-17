@@ -1,8 +1,8 @@
 # NeetCode 75 🧠
 
-Solving NeetCode 75 — a collection of essential Data Structures and Algorithms (DSA) interview problems — in a 15-day challenge (5 problems per day).
+Solving NeetCode 75 — a collection of essential Data Structures and Algorithms (DSA) interview problems — at my own pace.
 
-## Progress: 3 / 75
+## Progress: 5 / 75
 
 ---
 
@@ -24,8 +24,8 @@ Solving NeetCode 75 — a collection of essential Data Structures and Algorithms
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
 | 9 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | ⬜ |
-| 10 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | ⬜ |
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | ⬜ |
+| 10 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | ✅ |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | ✅ |
 
 ## Sliding Window
 
@@ -175,8 +175,8 @@ Solving NeetCode 75 — a collection of essential Data Structures and Algorithms
 
 ## Structure
 
-Problems are organized by topic in folders. Each file is named `##_problem_name.py`.
+Problems are organized by topic in folders. Each solution file is named by problem (e.g. `two_sum_1.py`, `three_sum_1.py`). Multiple solution files per problem where multiple approaches are implemented.
 
 ## Goal
 
-Finish 75 problems in 15 days. 5 problems per day. No skipping.
+Work through all 75 problems at my own pace, implementing multiple solutions per problem where possible.
