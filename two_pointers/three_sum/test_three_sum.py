@@ -1,6 +1,6 @@
 import pytest
-from solution_1 import Solution as TwoPointers
-from solution_2 import Solution as HashMap
+from three_sum_1 import Solution as TwoPointers
+from three_sum_2 import Solution as HashMap
 
 
 @pytest.fixture(params=[TwoPointers, HashMap])
