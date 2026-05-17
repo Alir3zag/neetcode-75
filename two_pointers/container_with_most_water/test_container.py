@@ -1,6 +1,5 @@
 import pytest
-from solution_1 import Solution
-
+from two_pointers.container_with_most_water.solution_1 import Solution
 
 @pytest.fixture
 def solution():
