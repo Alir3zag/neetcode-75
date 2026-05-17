@@ -3,7 +3,7 @@ from typing import List
 
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        """Two pointers — O(n log n) time, O(1) extra space."""
+        """Two pointers - O(n log n) time, O(1) extra space."""
         nums.sort()
         n = len(nums)
         res = []
