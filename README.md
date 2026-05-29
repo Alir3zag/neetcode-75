@@ -14,7 +14,7 @@ Solving NeetCode 75 — a collection of essential Data Structures and Algorithms
 | 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | ✅ |
 | 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ |
 | 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | ⬜ |
-| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | ⬜ |
+| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | ✅ |
 | 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | ⬜ |
 | 7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | ⬜ |
 | 8 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | ⬜ |
@@ -23,7 +23,7 @@ Solving NeetCode 75 — a collection of essential Data Structures and Algorithms
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
-| 9 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | ⬜ |
+| 9 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | ✅ |
 | 10 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | ✅ |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | ✅ |
 
