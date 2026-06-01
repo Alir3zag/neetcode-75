@@ -17,7 +17,7 @@ Solving NeetCode 75 — a collection of essential Data Structures and Algorithms
 | 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | ✅ |
 | 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | ✅ |
 | 7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | ✅ |
-| 8 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | ⬜ |
+| 8 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | ✅ |
 
 ## Two Pointers
 
@@ -31,9 +31,9 @@ Solving NeetCode 75 — a collection of essential Data Structures and Algorithms
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
-| 12 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | ⬜ |
-| 13 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | ⬜ |
-| 14 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | ⬜ |
+| 12 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | ✅ |
+| 13 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | ✅ |
+| 14 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | ✅ |
 | 15 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | ⬜ |
 
 ## Stack
